@@ -1376,3 +1376,12 @@ pre .javascript .function {
   margin-right: 5px;
   display: inline-block;
 }
+.outer>h1{
+  font-size:18px;
+  margin:20px 0
+}
+.outer>article{
+  font-size:14px;
+  line-height:30px;
+  text-indent:46px;
+}
