@@ -1,4 +1,4 @@
-vue
+﻿vue
 
 BBS_admin
 代码地址：https://github.com/2017coding/BBS_admin
@@ -53,6 +53,10 @@ https://www.2cto.com/kf/201712/702112.html
 
 好博客：
 https://www.cnblogs.com/xjf125  
+
+
+vue上传前的图片压缩：
+https://www.jianshu.com/p/c01b63a6457b
 
 
 浏览器的渲染过程：
