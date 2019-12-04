@@ -58,6 +58,10 @@ https://www.cnblogs.com/xjf125
 vue上传前的图片压缩：
 https://www.jianshu.com/p/c01b63a6457b
 
+还不错的后台管理系统：
+https://github.com/macrozheng/mall-admin-web
+
+
 
 浏览器的渲染过程：
 
